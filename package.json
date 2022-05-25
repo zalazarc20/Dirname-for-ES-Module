@@ -1,6 +1,6 @@
 {
   "name": "dirname-for-module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The most used and necessary variable for projects in node js",
   "main": "index.js",
   "type": "module",
